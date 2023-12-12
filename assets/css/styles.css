@@ -128,14 +128,14 @@ header h3 {
 }
 
 header h4 {
-  font: normal normal 600 18px/28px Oswald;
+  font: 40px;
   letter-spacing: 0.36px;
-  color: #191919;
+  color: white;
   text-transform: uppercase;
 }
 
 header p {
-  font: 600 12px/15px Poppins;
+  font: 16px;
   letter-spacing: 0.24px;
   color: #191919;
 }
